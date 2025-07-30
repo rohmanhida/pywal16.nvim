@@ -51,7 +51,7 @@ M.highlights_base = function(colors)
     MoreMsg = { fg = colors.color3 },
     MsgArea = { fg = colors.foreground, bg = colors.transparent },
     MsgSeparator = { fg = colors.color8, bg = colors.transparent },
-    NonText = { fg = colors.color7 },
+    NonText = { fg = colors.background },
     Normal = { fg = colors.foreground, bg = colors.transparent },
     NormalFloat = { fg = colors.foreground, bg = colors.background },
     NormalNC = { fg = colors.foreground, bg = colors.transparent },
