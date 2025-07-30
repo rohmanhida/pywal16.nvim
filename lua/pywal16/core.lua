@@ -8,7 +8,7 @@ function M.get_colors()
     background = vim.g.background,
     foreground = vim.g.foreground,
     cursor = vim.g.cursor,
-    color0 = vim.g.color7,
+    color0 = vim.g.color0,
     color1 = vim.g.color1,
     color2 = vim.g.color2,
     color3 = vim.g.color3,
